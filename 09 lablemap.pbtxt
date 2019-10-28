@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'crossing'
+}
+
+item {
+  id: 2
+  name: 'pedestrian'
+}
+
+item {
+  id: 3
+  name: 'pothole'
+}
+
+item {
+	id:4
+	name: 'vehicle'
+}
